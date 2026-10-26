@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Siddique
 
-<!--
-**MuhammadSiddique-Dev/MuhammadSiddique-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Web Developer | HTML | CSS | JavaScript
 
-Here are some ideas to get you started:
+I'm Muhammad Siddique from Karachi, Pakistan 🇵🇰, and I'm learning Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning Web Development
+- 💻 Practicing HTML, CSS, and JavaScript
+- 🎯 Goal: Build modern and responsive websites
+- 📍 Karachi, Pakistan
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📂 My Projects
+
+I'm working on web development projects and building my coding skills.
+
+---
+
+⭐ Thanks for visiting my profile!
